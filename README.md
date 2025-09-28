@@ -1,2 +1,2 @@
 # xtproject
-this is xtproject.
+this is web based project
